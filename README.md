@@ -16,7 +16,7 @@ Alat pengirim email (spoofing) tingkat tinggi yang dijalankan di atas jaringan *
 1. **Akun Gmail:** Sebagai mesin pengirim (SMTP Relay)
 2. **App Password (16 Digit):** Kunci akses khusus dari Google
    - Aktifkan *2-Step Verification* di Akun Google.
-   - Buat di : [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords).
+   - Buat di : [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
    - Cari Menu "Sandi Aplikasi" (App Passwords): Biasanya terletak di bagian bawah kolom "Cara Anda login ke Google".
    - ​Buat Nama Baru : Masukkan nama aplikasi (misal: "GhostMailer") lalu klik Buat.
    - ​Simpan Kode : Google akan menampilkan jendela pop-up berisi kode 16 digit dengan latar belakang kuning.
