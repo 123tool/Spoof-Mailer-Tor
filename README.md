@@ -1,4 +1,4 @@
-## 👻 Spoof Mailer Tor (Anonymous Spoofing Tor)
+## Spoof Mailer Tor (Anonymous Spoofing Tor)
 
 Alat pengirim email (spoofing) tingkat tinggi yang dijalankan di atas jaringan **Tor**. Tool ini dirancang untuk menyamarkan identitas pengirim dan lokasi asal (IP Address) secara total menggunakan sistem proxy berlapis.
 
